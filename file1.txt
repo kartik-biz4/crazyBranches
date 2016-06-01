@@ -4,5 +4,7 @@ Line3 master  Line3 branch2
 Line4 master
 Line5 Branch1
 Line6 Branch1
-Line7 Branch1
+Line7 master    (changed)
+
+Line9 master
 
